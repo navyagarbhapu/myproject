@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>login page</title>
+</head>
+<body bgcolor=pink><center><h3><i>login here</i></h3>
+<form method="post" action="login.html"></form>
+<p>Ussername:</p>
+<input type="text" value="enter name"></input>
+<p>Password:</p>
+<input type="text" value="enter password"></input>
+<br></br>
+<a href="file:///home/student/Documents/cse52/wellcome.html/bookpage.html"><button>submit</button></a>
+<br>
+</br>
+
+</center>
+</body>
+</html>
